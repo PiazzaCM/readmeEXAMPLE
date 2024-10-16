@@ -38,10 +38,10 @@ breve descripcion
 ## 📑 Endpoints
 
 - **POST** `/RUTA`: 
-- **GET** 
-- **PUT** 
-- **DELETE** 
-- **GET** 
+- **GET** `/RUTA`: 
+- **PUT** `/RUTA`: 
+- **DELETE** `/RUTA`: 
+- **GET** `/RUTA`: 
 
 ## 🛠️ Tecnologías Utilizadas
 
